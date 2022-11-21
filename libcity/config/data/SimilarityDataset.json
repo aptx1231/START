@@ -1,0 +1,12 @@
+{
+  "batch_size": 32,
+  "num_workers": 0,
+  "vocab_path": null,
+  "seq_len": 128,
+  "min_freq": 1,
+  "merge": true,
+  "bidir_adj_mx": false,
+  "query_data_path": null,
+  "detour_data_path": null,
+  "origin_big_data_path": null
+}

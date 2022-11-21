@@ -1,0 +1,5 @@
+{
+  "metrics": ["Precision", "Recall", "F1", "MRR", "NDCG", "microF1", "macroF1"],
+  "save_modes": ["json"],
+  "topk": [1, 5, 10]
+}

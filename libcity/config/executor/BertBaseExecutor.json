@@ -1,0 +1,22 @@
+{
+  "batch_size": 32,
+  "grad_accmu_steps": 1,
+  "max_epoch": 20,
+  "learner": "adamw",
+  "learning_rate": 2e-4,
+  "lr_eta_min": 0,
+  "lr_warmup_epoch": 4,
+  "lr_warmup_init": 1e-6,
+  "lr_decay": true,
+  "lr_scheduler": "cosinelr",
+  "lr_decay_ratio": 0.1,
+  "t_in_epochs": true,
+  "clip_grad_norm": true,
+  "max_grad_norm": 5,
+  "use_early_stop": true,
+  "patience": 50,
+  "test_every": 10,
+  "log_batch": 500,
+  "log_every": 1,
+  "l2_reg": null
+}

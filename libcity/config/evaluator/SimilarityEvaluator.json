@@ -1,0 +1,7 @@
+{
+  "sim_select_num": 5,
+  "roadnetwork": "bj_roadmap_edge",
+  "metrics": ["MR", "MRR", "HR"],
+  "topk": [1, 5, 10],
+  "sim_mode": "most"
+}

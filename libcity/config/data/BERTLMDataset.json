@@ -1,0 +1,13 @@
+{
+  "batch_size": 32,
+  "num_workers": 0,
+  "vocab_path": null,
+  "seq_len": 128,
+  "min_freq": 1,
+  "merge": true,
+  "bidir_adj_mx": false,
+  "masking_ratio": 0.2,
+  "masking_mode": "together",
+  "distribution": "random",
+  "avg_mask_len": 3
+}

@@ -1,0 +1,8 @@
+/.vscode
+/.idea
+/code/
+/raw_data/*/
+/libcity/cache/*
+/libcity/log/*
+/libcity/__pycache__
+/libcity/*/__pycache__

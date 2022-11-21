@@ -1,0 +1,4 @@
+{
+  "metrics": ["MAE", "RMSE", "MAPE", "R2", "EVAR"],
+  "save_modes": ["csv", "json"]
+}

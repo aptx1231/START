@@ -1,0 +1,4 @@
+{
+  "metrics": ["Accuracy", "Precision", "Recall", "F1", "AUC", "kappa"],
+  "save_modes": ["csv", "json"]
+}
