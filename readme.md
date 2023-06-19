@@ -1,5 +1,7 @@
 # [ICDE2023] Self-supervised Trajectory Representation Learning with Temporal Regularities and Travel Semantics
 
+**Update 2023/06/20: We released the BJ-data, please see the Data section to obtain it.**
+
 This is a PyTorch implementation of Self-supervised Trajectory Representation Learning with Temporal Regularities and Travel Semantics Framework (**START**) for generic trajectory representation learning, as described in our paper: Jiawei Jiang, Dayan Pan, Houxing Ren, Xiaohan Jiang, Chao Li, Jingyuan Wang,  **[Self-supervised Trajectory Representation Learning with Temporal Regularities and Travel Semantics](https://arxiv.org/abs/2211.09510)**, ICDE2023.
 
 ![](./framework.png)
@@ -23,7 +25,9 @@ For example, if you unzip the **Porto** dataset, please make sure your directory
 
 Here `porto_roadmap_edge_porto_True_1_merge/` stores the road network data, and `porto/` stores the trajectory data.
 
-For data privacy, we did not release the BJ data.
+~~For data privacy, we did not release the BJ data.~~
+
+We released the Beijing trajectory dataset collected in November 2015, including 1018312 trajectories. We obtained the corresponding road network data from OpenStreetMap and preprocessed the trajectory data to get the Beijing trajectory dataset matched to the road network, and we believed that this dataset could promote the development of urban trajectory mining tasks. Please refer to file [bj-data-introduction.md](./bj-data-introduction.md) for a more detailed data introduction. [Data Download](https://drive.google.com/file/d/1NXHrmh2H5ZTBZCUmYeGSJGQbgl4bjQnt/view)
 
 ## Pre-Train
 
