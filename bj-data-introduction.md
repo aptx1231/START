@@ -2,7 +2,7 @@
 
 The Beijing data is a dataset collected in Beijing cabs in November 2015, including 1018312 trajectories. We obtained the corresponding road network data from OpenStreetMap and preprocessed the trajectory data to get the Beijing trajectory dataset matched to the road network, and we believed that this dataset could promote the development of urban trajectory mining tasks.
 
-[Download](https://drive.google.com/file/d/1NXHrmh2H5ZTBZCUmYeGSJGQbgl4bjQnt/view)
+[Download](https://pan.baidu.com/s/1TbqhtImm_dWQZ1-9-1XsIQ?pwd=1231)
 
 The statistical information of the data is as follows:
 
